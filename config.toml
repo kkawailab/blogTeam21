@@ -1,6 +1,6 @@
-baseURL = 'https://katzkawai.org/nikki01/'
+baseURL = 'https:///blogTeam21/'
 languageCode = 'ja-JP'
-title = 'わたしのサイト'
+title = 'Team21ブログ'
 theme = "ananke"
 canonifyurls = true
 publishDir = "docs"
