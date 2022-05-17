@@ -11,6 +11,4 @@ menu: "main"
 
 ## ブログレポジトリ
 
-## ブログレポジトリ
-
 - https://github.com/kkawailab/blogTeam21
