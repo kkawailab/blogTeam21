@@ -1,6 +1,6 @@
 baseURL = 'https://kklab.mobi/blogTeam21/'
 languageCode = 'ja-JP'
-title = 'Team21ブログ'
+title = 'Team21　'
 theme = "ananke"
 canonifyurls = true
 publishDir = "docs"
