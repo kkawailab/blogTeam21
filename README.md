@@ -17,3 +17,10 @@ https://github.com/kkawailab/blogTeam21/tree/main/content/posts
 以下のディレクトリにマークダウンファイルを作成してください。
 
 https://github.com/kkawailab/blogTeam21/tree/main/content
+
+## 投稿ルール（案）
+ファイルの頭にイニシャルを付けてみましょうか？
+
+> kk-wanko.md
+
+とか
