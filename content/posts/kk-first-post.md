@@ -10,4 +10,3 @@ draft: false
 
 これから週に1度投稿していきます。
 
-{{<youtube 2xkNJL4gJ9E>}}
